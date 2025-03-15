@@ -11,6 +11,13 @@
 ```sh
 wget -O - https://raw.githubusercontent.com/routerich/RouterichAX3000_configs/refs/heads/main/configure_zaprets.sh | sh
 ```
+
+```sh
+wget -O - https://raw.githubusercontent.com/routerich/RouterichAX3000_configs/refs/heads/main/configure_zaprets.sh | sh
+```
+
+
+
 **Откат**
 ```sh
 wget -O - https://raw.githubusercontent.com/routerich/RouterichAX3000_configs/refs/heads/main/off_configure_zaprets.sh | sh
