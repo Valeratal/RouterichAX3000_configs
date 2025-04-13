@@ -20,7 +20,7 @@ wget -O - https://raw.githubusercontent.com/Valeratal/RouterichAX3000_configs/re
 
 **Откат**
 ```sh
-wget -O - https://raw.githubusercontent.com/routerich/RouterichAX3000_configs/refs/heads/main/off_configure_zaprets.sh | sh
+wget -O - https://raw.githubusercontent.com/Valeratal/RouterichAX3000_configs/refs/heads/main/off_configure_zaprets.sh | sh
 ```
 
 ### Разблокировка сайтов с помощью WARP от CloudFlare
